@@ -1,2 +1,3 @@
-# notes
-Anotações de estudos infinitos na área de tecnologia.
+# Tomando nota
+
+Documentação estática de estudos na área de tecnologia utilizando [Docusaurus 2](https://docusaurus.io/).
