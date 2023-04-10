@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[988],{4309:e=>{e.exports=JSON.parse('{"label":"estudo","permalink":"/notes/tags/estudo","allTagsPath":"/notes/tags","count":1,"items":[{"id":"intro","title":"Reposit\xf3rio de estudos","description":"Centralizar meus estudos na \xe1rea de tecnologia em um s\xf3 lugar.","permalink":"/notes/"}]}')}}]);

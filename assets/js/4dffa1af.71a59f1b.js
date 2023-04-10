@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[374],{1077:e=>{e.exports=JSON.parse('{"label":"decimal","permalink":"/notes/tags/decimal","allTagsPath":"/notes/tags","count":1,"items":[{"id":"AOC/conversoes","title":"Convers\xf5es","description":"Exemplo de come\xe7o de texto.","permalink":"/notes/aoc/conversoes"}]}')}}]);
