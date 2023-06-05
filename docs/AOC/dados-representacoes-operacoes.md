@@ -81,7 +81,7 @@ Logo: 11011 - 01101 = 1110
 
 Para ter o número negativo de B precisamos calcular seu **complemento de um**.
 
-Para soma igualamos o número de casas e caso sobre 1 no final da soma, adicionamos ao número obtido.
+Para soma igualamos o número de casas, e caso sobre 1 no final da soma, adicionamos ao número obtido.
 
 Logo: 011101 - 01010 = 011101 - **0**01010 = 011101 + **1**10101 = **1**010010 = 010010 + **1** = 010011
 
