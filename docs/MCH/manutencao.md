@@ -1,7 +1,7 @@
 ---
 slug: /mch/manutencao
 title: Manutenção de computadores
-sidebar_position: 6
+sidebar_position: 8
 tags:
   - mch
   - manuseio
