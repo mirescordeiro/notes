@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[43],{7060:e=>{e.exports=JSON.parse('{"label":"chipset","permalink":"/notes/tags/chipset","allTagsPath":"/notes/tags","count":1,"items":[{"id":"MCH/chipset","title":"Chipset","description":"logo mais!","permalink":"/notes/mch/chipset"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[46],{3483:e=>{e.exports=JSON.parse('{"label":"mem\xf3ria","permalink":"/notes/tags/memoria","allTagsPath":"/notes/tags","count":1,"items":[{"id":"AOC/cpu","title":"Como funciona um computador","description":"Arquitetura de Von Neumann","permalink":"/notes/aoc/cpu"}]}')}}]);

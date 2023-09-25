@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[552],{236:s=>{s.exports=JSON.parse('{"label":"processador","permalink":"/notes/tags/processador","allTagsPath":"/notes/tags","count":1,"items":[{"id":"MCH/processador","title":"Processador","description":"CPU","permalink":"/notes/mch/processador"}]}')}}]);

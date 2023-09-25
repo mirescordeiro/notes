@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[501],{9364:e=>{e.exports=JSON.parse('{"label":"gabinete","permalink":"/notes/tags/gabinete","allTagsPath":"/notes/tags","count":1,"items":[{"id":"MCH/gabinete","title":"Gabinete","description":"Gabinete aberto","permalink":"/notes/mch/gabinete"}]}')}}]);
