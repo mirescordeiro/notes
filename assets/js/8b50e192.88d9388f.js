@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[603],{2066:e=>{e.exports=JSON.parse('{"label":"barramento","permalink":"/notes/tags/barramento","allTagsPath":"/notes/tags","count":1,"items":[{"id":"MCH/barramento","title":"Barramento","description":"logo mais!","permalink":"/notes/mch/barramento"}]}')}}]);
