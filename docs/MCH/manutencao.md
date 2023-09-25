@@ -9,12 +9,6 @@ tags:
   - montagem
 ---
 
-## Cuidados
-
-1. Não manusear placas eletrônicas tocando-as diretamente, toque somente nas **bordas dos componentes**
-2. A maioria dos componentes deve ser encaixado de uma maneira específica, possuindo travas (chanfros) de segurança nos encaixes, **não force**
-3. Ao instalar o processador, tome cuidado com a pasta de diminuição de aquecimento, **evite o contato com os olhos**
-
 ## Procedimentos de montagem
 
 1. Prepare o gabinete
@@ -36,6 +30,12 @@ tags:
 14. Verifique conexões da fonte com a placa mãe, HD e CD/DVD
 15. Faça o **segundo teste**
 16. Instale o SO
+
+## Cuidados
+
+1. Não manusear placas eletrônicas tocando-as diretamente, toque somente nas **bordas dos componentes**
+2. A maioria dos componentes deve ser encaixado de uma maneira específica, possuindo travas (chanfros) de segurança nos encaixes, **não force**
+3. Ao instalar o processador, tome cuidado com a pasta de diminuição de aquecimento, **evite o contato com os olhos**
 
 ## Defeitos
 
