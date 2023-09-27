@@ -44,3 +44,7 @@ O formato AT é um formato antigo e já está fora de mercado.
 ## Referências
 
 [https://docs.google.com/presentation/d/1QRSP_nbLpkIqdrGOvFSHgjLH-32P8fzphjzal9ET_3k/edit#slide=id.g9b2da46406_0_398](https://docs.google.com/presentation/d/1QRSP_nbLpkIqdrGOvFSHgjLH-32P8fzphjzal9ET_3k/edit#slide=id.g9b2da46406_0_398)
+
+[https://profsalu.files.wordpress.com/2014/05/fundamentos-de-hardware1.pdf](https://profsalu.files.wordpress.com/2014/05/fundamentos-de-hardware1.pdf)
+
+[http://redeetec.mec.gov.br/images/stories/pdf/eixo_infor_comun/tec_man_sup/081112_manut_mont.pdf](http://redeetec.mec.gov.br/images/stories/pdf/eixo_infor_comun/tec_man_sup/081112_manut_mont.pdf)
