@@ -68,3 +68,11 @@ Alteração do funcionamento de um método herdado de um objeto mãe conforme a 
 > Artista > Desenhista
 
 - Desenhista: criar(desenho);
+
+## Referências
+
+http://professor.norton.net.br/index.php/2023/02/09/poo-introducao/
+
+https://www.youtube.com/watch?v=dXZRgW-X2ls&ab_channel=AttekitaDev
+
+https://www.youtube.com/watch?v=8VcZkAYygoo&ab_channel=AttekitaDev
