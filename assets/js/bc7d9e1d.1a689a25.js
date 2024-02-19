@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[3922],{5922:s=>{s.exports=JSON.parse('{"label":"so2","permalink":"/notes/tags/so-2","allTagsPath":"/notes/tags","count":1,"items":[{"id":"SO2/linux","title":"Hist\xf3ria do Linux","description":"MULTICS, UNIX, MINIX... LINUX","permalink":"/notes/so2/linux"}]}')}}]);

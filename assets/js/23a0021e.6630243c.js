@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[5779],{927:e=>{e.exports=JSON.parse('{"label":"ed","permalink":"/notes/tags/ed","allTagsPath":"/notes/tags","count":1,"items":[{"id":"ED/recursividade","title":"Recursividade","description":"O que \xe9 Recurs\xe3o?","permalink":"/notes/ed/recursividade"}]}')}}]);
