@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[6811],{5957:o=>{o.exports=JSON.parse('{"label":"poo","permalink":"/notes/tags/poo","allTagsPath":"/notes/tags","count":1,"items":[{"id":"POO/intro","title":"Introdu\xe7\xe3o a POO","description":"O que \xe9 a Programa\xe7\xe3o orientada a objetos?","permalink":"/notes/poo/intro"}]}')}}]);

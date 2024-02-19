@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[482],{1256:e=>{e.exports=JSON.parse('{"label":"UC","permalink":"/notes/tags/uc","allTagsPath":"/notes/tags","count":1,"items":[{"id":"AOC/cpu","title":"Como funciona um computador","description":"Arquitetura de Von Neumann","permalink":"/notes/aoc/cpu"}]}')}}]);

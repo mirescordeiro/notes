@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[3936],{4487:e=>{e.exports=JSON.parse('{"label":"defeito","permalink":"/notes/tags/defeito","allTagsPath":"/notes/tags","count":1,"items":[{"id":"MCH/manutencao","title":"Manuten\xe7\xe3o de computadores","description":"Procedimentos de montagem","permalink":"/notes/mch/manutencao"}]}')}}]);

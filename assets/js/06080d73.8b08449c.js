@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotes=self.webpackChunknotes||[]).push([[2964],{9470:a=>{a.exports=JSON.parse('{"label":"placa m\xe3e","permalink":"/notes/tags/placa-mae","allTagsPath":"/notes/tags","count":1,"items":[{"id":"MCH/placa","title":"Placa m\xe3e","description":"Placa m\xe3e","permalink":"/notes/mch/placa-mae"}]}')}}]);
